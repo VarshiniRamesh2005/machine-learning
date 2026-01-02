@@ -58,7 +58,7 @@ print("Final General Boundary:", G_final)
 
 ```sql
 Final Specific Boundary: ['Technical', '?', 'Excellent', 'Good', '?']
-Final General Boundary: [['Technical', '?', '?', 'Good', '?']]
+Final General Boundary: [['Technical', '?', 'Excellent', '?', '?'], ['?', '?', 'Excellent', '?', '?'], ['?', '?', 'Excellent', 'Good', '?']]
 ```
 
 ---
