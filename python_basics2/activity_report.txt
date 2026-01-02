@@ -1,0 +1,17 @@
+===== STUDENT ACTIVITY REPORT =====
+
+Student ID: S101
+Name: Asha
+Total Logins: 2
+Total Submissions: 0
+
+Student ID: S102
+Name: Ravi
+Total Logins: 0
+Total Submissions: 1
+
+===== DAILY ACTIVITY STATISTICS =====
+2025-03-10 -> {'LOGIN': 2, 'LOGOUT': 1, 'SUBMIT_ASSIGNMENT': 1}
+
+===== ABNORMAL BEHAVIOR =====
+S101: ['Multiple logins without logout']
